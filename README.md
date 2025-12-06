@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Sugakabiyrarosha%20(Harosha)&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20and%20ML%20Developer%20%7C%20NLP%20and%20Computer%20Vision%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=If%20at%20first%20you%20do%20not%20succeed%20add%20another%20layer%20and%20try%20again." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=If%20at%20first%20you%20do%20not%20succeed;add%20another%20layer%20and%20try%20again." alt="Typing introduction" />
 </p>
 
 <p align="center">
