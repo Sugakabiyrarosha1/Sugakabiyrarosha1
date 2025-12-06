@@ -29,8 +29,8 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sugakabiyrarosha1&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Sugakabiyrarosha1's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Sugakabiyrarosha1&theme=dark&hide_border=true&cache_seconds=86400" alt="Sugakabiyrarosha1's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sugakabiyrarosha1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Sugakabiyrarosha1's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Sugakabiyrarosha1&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Sugakabiyrarosha1's GitHub Streak" width="49%" />
 </p>
 
 
